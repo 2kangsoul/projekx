@@ -3,7 +3,8 @@
     "8409681550:AAEALKaw_P69dg6dM3uvzbtNPyLgFpgQqW0",
     "8409681550:AAEvHBBDp-hEfLUPTjYu-5LuLdkq_2XjANw",
     "8409681550:AAHd3dkuBxHnc_PSTbGv-YXU1Phpdqvu_6E",
-    "8569913299:AAF2HolLev4ZPlnaHoRmdVlSqetLnUUzJCk"
+    "8569913299:AAF2HolLev4ZPlnaHoRmdVlSqetLnUUzJCk",
+    "8400990587:AAEm5i22EYszJhwXrKVC4yAml7b73iXPniI"
   ],
   "token_meta": {
     "8409681550:AAEALKaw_P69dg6dM3uvzbtNPyLgFpgQqW0": {
@@ -21,6 +22,10 @@
     "8569913299:AAF2HolLev4ZPlnaHoRmdVlSqetLnUUzJCk": {
       "addedAt": 1772861688558,
       "lastUsedAt": 1772861688558
+    },
+    "8400990587:AAEm5i22EYszJhwXrKVC4yAml7b73iXPniI": {
+      "addedAt": 1772862853467,
+      "lastUsedAt": 1772862853467
     }
   }
 }
