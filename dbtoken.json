@@ -7,7 +7,8 @@
     "1",
     "8780382083:AAE90RTnEYadqjtZfYR0wc8K-S9p9tToIKs",
     "7978775893:AAEcq82RHpqyQODX0lfKwTPozoj9Ir7mRoU",
-    "8599112319:AAHEqAwZC3UWemeKa3B9bxX6KxC-E7OcJzM"
+    "8599112319:AAHEqAwZC3UWemeKa3B9bxX6KxC-E7OcJzM",
+    "8755299978:AAGQbPVtlc-SBJPSHsq_PqdcdEa1datGNpc"
   ],
   "token_meta": {
     "1": {
@@ -41,6 +42,10 @@
     "8599112319:AAHEqAwZC3UWemeKa3B9bxX6KxC-E7OcJzM": {
       "addedAt": 1772886059123,
       "lastUsedAt": 1772886059123
+    },
+    "8755299978:AAGQbPVtlc-SBJPSHsq_PqdcdEa1datGNpc": {
+      "addedAt": 1772886063478,
+      "lastUsedAt": 1772886063478
     }
   }
 }
