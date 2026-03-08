@@ -12,7 +12,8 @@
     "8663322213:AAGBrzLTKW6jRLuveUdk4eDQbJ8bb-2M1Hg",
     "8630598911:AAEPTHRT1MS8-tgDp68tYSKM0fhQezIa4dE",
     "8443402055:AAHuTEQddyYJDm5i9D78ZAcZNWVZIMVjYas",
-    "8372855014:AAHTFgUZewfPd03KXlDwd2oPpjr9xrYz0EQ"
+    "8372855014:AAHTFgUZewfPd03KXlDwd2oPpjr9xrYz0EQ",
+    "8372855014:AAGQwxpGDjEnAQxutA6p_tzEvebDeZ1qxWE"
   ],
   "token_meta": {
     "8353167981:AAGgKmNoPAMww1GXsXBAhSiJ_vl5TlKCYm0": {
@@ -66,6 +67,10 @@
     "8372855014:AAHTFgUZewfPd03KXlDwd2oPpjr9xrYz0EQ": {
       "addedAt": 1772996349650,
       "lastUsedAt": 1772996349650
+    },
+    "8372855014:AAGQwxpGDjEnAQxutA6p_tzEvebDeZ1qxWE": {
+      "addedAt": 1773000017000,
+      "lastUsedAt": 1773000017000
     }
   }
 }
