@@ -1,6 +1,5 @@
 {
   "tokens": [
-    "8229847824:AAFtk0AzDNTZPb5f4Xlmo49w-AzeFF5nZfc",
     "8142031374:AAGypo7vW47kvv086kYwCz2p1jW58NpeZnU",
     "8353167981:AAGgKmNoPAMww1GXsXBAhSiJ_vl5TlKCYm0",
     "7708378515:AAH6pe-0DAadVaLFhzjS6FGgpUyAGxHgJrA",
@@ -9,14 +8,9 @@
     "8725413775:AAFpR2eom-mkHGmaxTLUJaLHuo1mBWceZGw",
     "8774254652:AAH6jIRGYMAAPDg4S7Dk-a5Bwv61xohIlnE",
     "8748782621:AAEnlnJeKPIVvvt1VVGwL-NhGedAk74r4-8",
-    "8584197773:AAEzFR7k7_eAC4bQxmgm-0RMBm2mdMSLvmo",
     "8403011880:AAHPTjIHVI1boUT96ybHw6OUgy9cshxaU2U"
   ],
   "token_meta": {
-    "8229847824:AAFtk0AzDNTZPb5f4Xlmo49w-AzeFF5nZfc": {
-      "addedAt": 1772897041853,
-      "lastUsedAt": 1772897041853
-    },
     "8142031374:AAGypo7vW47kvv086kYwCz2p1jW58NpeZnU": {
       "addedAt": 1772909924206,
       "lastUsedAt": 1772909924206
@@ -48,10 +42,6 @@
     "8748782621:AAEnlnJeKPIVvvt1VVGwL-NhGedAk74r4-8": {
       "addedAt": 1772973919508,
       "lastUsedAt": 1772973919508
-    },
-    "8584197773:AAEzFR7k7_eAC4bQxmgm-0RMBm2mdMSLvmo": {
-      "addedAt": 1772978098805,
-      "lastUsedAt": 1772978098805
     },
     "8403011880:AAHPTjIHVI1boUT96ybHw6OUgy9cshxaU2U": {
       "addedAt": 1772978187484,
