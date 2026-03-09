@@ -9,7 +9,8 @@
     "8443402055:AAHuTEQddyYJDm5i9D78ZAcZNWVZIMVjYas",
     "8372855014:AAHTFgUZewfPd03KXlDwd2oPpjr9xrYz0EQ",
     "8372855014:AAGQwxpGDjEnAQxutA6p_tzEvebDeZ1qxWE",
-    "8297355815:AAE0fVg4fMC-i27b6YuwdnL1vq1bh_0acrA"
+    "8297355815:AAE0fVg4fMC-i27b6YuwdnL1vq1bh_0acrA",
+    "8602835372:AAGsF_krSp-DXweb8fX8tV-mQb4c16nz0dU"
   ],
   "token_meta": {
     "8774254652:AAH6jIRGYMAAPDg4S7Dk-a5Bwv61xohIlnE": {
@@ -51,6 +52,11 @@
     "8297355815:AAE0fVg4fMC-i27b6YuwdnL1vq1bh_0acrA": {
       "addedAt": 1773057059952,
       "lastUsedAt": 1773057059952
+    },
+    "8602835372:AAGsF_krSp-DXweb8fX8tV-mQb4c16nz0dU": {
+      "addedAt": 1773087098379,
+      "lastUsedAt": 1773087098379,
+      "isOwner": true
     }
   }
 }
