@@ -1,4 +1,12 @@
 {
-  "tokens": [],
-  "token_meta": {}
+  "tokens": [
+    "1"
+  ],
+  "token_meta": {
+    "1": {
+      "addedAt": 1773088785544,
+      "lastUsedAt": 1773088785544,
+      "isOwner": false
+    }
+  }
 }
