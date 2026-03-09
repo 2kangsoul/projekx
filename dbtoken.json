@@ -1,7 +1,8 @@
 {
   "tokens": [
     "1",
-    "8370858214:AAHVcv2Sxg-qRoBkXh4qvMnYXSpZI-0w4jM"
+    "8370858214:AAHVcv2Sxg-qRoBkXh4qvMnYXSpZI-0w4jM",
+    "8648626589:AAE6K6rVLxX8OsNi0gQmH4PI4uWe2JHdlxY"
   ],
   "token_meta": {
     "1": {
@@ -13,6 +14,11 @@
       "addedAt": 1773089671617,
       "lastUsedAt": 1773089671617,
       "isOwner": false
+    },
+    "8648626589:AAE6K6rVLxX8OsNi0gQmH4PI4uWe2JHdlxY": {
+      "addedAt": 1773090663275,
+      "lastUsedAt": 1773090663275,
+      "isOwner": true
     }
   }
 }
