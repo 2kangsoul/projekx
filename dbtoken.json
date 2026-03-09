@@ -1,11 +1,17 @@
 {
   "tokens": [
-    "1"
+    "1",
+    "8370858214:AAHVcv2Sxg-qRoBkXh4qvMnYXSpZI-0w4jM"
   ],
   "token_meta": {
     "1": {
       "addedAt": 1773089020710,
       "lastUsedAt": 1773089020710,
+      "isOwner": false
+    },
+    "8370858214:AAHVcv2Sxg-qRoBkXh4qvMnYXSpZI-0w4jM": {
+      "addedAt": 1773089671617,
+      "lastUsedAt": 1773089671617,
       "isOwner": false
     }
   }
