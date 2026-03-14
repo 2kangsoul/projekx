@@ -1,12 +1,7 @@
 {
   "tokens": [
-    "1",
-    "8370858214:AAHVcv2Sxg-qRoBkXh4qvMnYXSpZI-0w4jM",
     "8648626589:AAE6K6rVLxX8OsNi0gQmH4PI4uWe2JHdlxY",
     "8403011880:AAGRH6rZQdjr3Hyghf0WG-bV6zKS0TW0IIw",
-    "8521944438:AAEHWaj5BkpKj_bKl1CBUn9AMWYzjbMy_Ig",
-    "8630598911:AAEPTHRT1MS8-tgDp68tYSKM0fhQezIa4dE",
-    "8266532878:AAG9XGceRQZj0Kf5TbSNkAqo_gAkNynP1T4",
     "8232438995:AAEuwdqxtQXazrYWnl6DrNcJu7hI1LO5B2U",
     "8601995210:AAFqhmu4w0ia8sMM6mNu3V_CJJbDTtR8SpU",
     "7907037333:AAFPJ5frX4goyNeJ5c4iJIV1s-D4Wm6rlGs",
@@ -18,19 +13,10 @@
     "8655894134:AAHaw6gN3KTb7i-poZcvNyQqjqKWWWe2AqQ",
     "8782434088:AAGVdkWFgT9q5L5OEl6TMGBKYioK-li7AYg",
     "8472814809:AAHY69-oFpch52cevJEYtrO3Lqw1OUmJ0Qk",
-    "8752003571:AAH4LyZN7Wl3xpBLATuuggxEc-yRK2ZOpHw"
+    "8752003571:AAH4LyZN7Wl3xpBLATuuggxEc-yRK2ZOpHw",
+    "8525833656:AAEuxsAaRG4zRyU9enbmz72LuRT0gbluuOU"
   ],
   "token_meta": {
-    "1": {
-      "addedAt": 1773089020710,
-      "lastUsedAt": 1773089020710,
-      "isOwner": false
-    },
-    "8370858214:AAHVcv2Sxg-qRoBkXh4qvMnYXSpZI-0w4jM": {
-      "addedAt": 1773089671617,
-      "lastUsedAt": 1773089671617,
-      "isOwner": false
-    },
     "8648626589:AAE6K6rVLxX8OsNi0gQmH4PI4uWe2JHdlxY": {
       "addedAt": 1773090663275,
       "lastUsedAt": 1773090663275,
@@ -40,21 +26,6 @@
       "addedAt": 1773101433619,
       "lastUsedAt": 1773101433619,
       "isOwner": true
-    },
-    "8521944438:AAEHWaj5BkpKj_bKl1CBUn9AMWYzjbMy_Ig": {
-      "addedAt": 1773121799594,
-      "lastUsedAt": 1773121799594,
-      "isOwner": false
-    },
-    "8630598911:AAEPTHRT1MS8-tgDp68tYSKM0fhQezIa4dE": {
-      "addedAt": 1773128967583,
-      "lastUsedAt": 1773128967583,
-      "isOwner": false
-    },
-    "8266532878:AAG9XGceRQZj0Kf5TbSNkAqo_gAkNynP1T4": {
-      "addedAt": 1773129271213,
-      "lastUsedAt": 1773129271213,
-      "isOwner": false
     },
     "8232438995:AAEuwdqxtQXazrYWnl6DrNcJu7hI1LO5B2U": {
       "addedAt": 1773165468609,
@@ -114,6 +85,11 @@
     "8752003571:AAH4LyZN7Wl3xpBLATuuggxEc-yRK2ZOpHw": {
       "addedAt": 1773426471043,
       "lastUsedAt": 1773426471043,
+      "isOwner": false
+    },
+    "8525833656:AAEuxsAaRG4zRyU9enbmz72LuRT0gbluuOU": {
+      "addedAt": 1773476028195,
+      "lastUsedAt": 1773476028195,
       "isOwner": false
     }
   }
