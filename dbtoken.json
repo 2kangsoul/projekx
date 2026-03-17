@@ -16,7 +16,8 @@
     "8795174146:AAGyAtobY-de51VfHfRhDDliJuGzIj8daN4",
     "8658447821:AAHBCDH4vuCsN7c7P-pRmXPo1tGL4_Fk1rE",
     "8751701371:AAH3sAaObCml6X2cPx-AnQvzdR4SkjBNHS0",
-    "salah jir"
+    "salah jir",
+    "8691407408:AAE9wbJi8um3ZNXbJCVhOhA1pfoo5Kp4sCg"
   ],
   "token_meta": {
     "8648626589:AAE6K6rVLxX8OsNi0gQmH4PI4uWe2JHdlxY": {
@@ -102,6 +103,11 @@
     "salah jir": {
       "addedAt": 1773726212205,
       "lastUsedAt": 1773726212205,
+      "isOwner": false
+    },
+    "8691407408:AAE9wbJi8um3ZNXbJCVhOhA1pfoo5Kp4sCg": {
+      "addedAt": 1773742239521,
+      "lastUsedAt": 1773742239521,
       "isOwner": false
     }
   }
