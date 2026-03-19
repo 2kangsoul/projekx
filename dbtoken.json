@@ -4,7 +4,6 @@
     "8403011880:AAGRH6rZQdjr3Hyghf0WG-bV6zKS0TW0IIw",
     "8367153124:AAEJi1Roo-G5e2zvuThbp-tVcpPnNLnO4A0",
     "8088206578:AAEUCwPKMaQEfKuXyoynBLtbWI1Yzp5NPTo",
-    "8795174146:AAGyAtobY-de51VfHfRhDDliJuGzIj8daN4",
     "8658447821:AAHBCDH4vuCsN7c7P-pRmXPo1tGL4_Fk1rE",
     "8751701371:AAH3sAaObCml6X2cPx-AnQvzdR4SkjBNHS0",
     "salah jir",
@@ -14,7 +13,6 @@
     "8275217125:AAHZfrxNx8mIQuCPaTcHrYyjLv_j1XSjy9E",
     "8351183194:AAF2Vwp-4oNy1L_HxWx2ymahqQBgvgfsun4",
     "8741378923:AAHa3sZpWlHtw-fxv5c8-Mz2i-cBwDfCcu4",
-    "8632495913:AAGQsrIQEDQPJtUcUgB4u9qSgzpVvduVD1Y",
     "8266532878:AAG9XGceRQZj0Kf5TbSNkAqo_gAkNynP1T4"
   ],
   "token_meta": {
@@ -37,11 +35,6 @@
       "addedAt": 1773266173950,
       "lastUsedAt": 1773266173950,
       "isOwner": true
-    },
-    "8795174146:AAGyAtobY-de51VfHfRhDDliJuGzIj8daN4": {
-      "addedAt": 1773592198975,
-      "lastUsedAt": 1773592198975,
-      "isOwner": false
     },
     "8658447821:AAHBCDH4vuCsN7c7P-pRmXPo1tGL4_Fk1rE": {
       "addedAt": 1773642568651,
@@ -86,11 +79,6 @@
     "8741378923:AAHa3sZpWlHtw-fxv5c8-Mz2i-cBwDfCcu4": {
       "addedAt": 1773836278964,
       "lastUsedAt": 1773836278964,
-      "isOwner": false
-    },
-    "8632495913:AAGQsrIQEDQPJtUcUgB4u9qSgzpVvduVD1Y": {
-      "addedAt": 1773866945403,
-      "lastUsedAt": 1773866945403,
       "isOwner": false
     },
     "8266532878:AAG9XGceRQZj0Kf5TbSNkAqo_gAkNynP1T4": {
