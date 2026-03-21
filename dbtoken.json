@@ -4,17 +4,12 @@
     "8403011880:AAGRH6rZQdjr3Hyghf0WG-bV6zKS0TW0IIw",
     "8367153124:AAEJi1Roo-G5e2zvuThbp-tVcpPnNLnO4A0",
     "8088206578:AAEUCwPKMaQEfKuXyoynBLtbWI1Yzp5NPTo",
-    "8658447821:AAHBCDH4vuCsN7c7P-pRmXPo1tGL4_Fk1rE",
-    "8751701371:AAH3sAaObCml6X2cPx-AnQvzdR4SkjBNHS0",
-    "salah jir",
-    "8691407408:AAE9wbJi8um3ZNXbJCVhOhA1pfoo5Kp4sCg",
-    "8572130661:AAFWiJczHrVEBc5C3daGX7xDLE38HNtbeO8",
-    "8232438995:AAEuwdqxtQXazrYWnl6DrNcJu7hI1LO5B2U",
     "8275217125:AAHZfrxNx8mIQuCPaTcHrYyjLv_j1XSjy9E",
     "8351183194:AAF2Vwp-4oNy1L_HxWx2ymahqQBgvgfsun4",
     "8741378923:AAHa3sZpWlHtw-fxv5c8-Mz2i-cBwDfCcu4",
     "8266532878:AAG9XGceRQZj0Kf5TbSNkAqo_gAkNynP1T4",
-    "8632495913:AAGQsrIQEDQPJtUcUgB4u9qSgzpVvduVD1Y"
+    "8632495913:AAGQsrIQEDQPJtUcUgB4u9qSgzpVvduVD1Y",
+    "8663322213:AAGBrzLTKW6jRLuveUdk4eDQbJ8bb-2M1Hg"
   ],
   "token_meta": {
     "8648626589:AAE6K6rVLxX8OsNi0gQmH4PI4uWe2JHdlxY": {
@@ -36,36 +31,6 @@
       "addedAt": 1773266173950,
       "lastUsedAt": 1773266173950,
       "isOwner": true
-    },
-    "8658447821:AAHBCDH4vuCsN7c7P-pRmXPo1tGL4_Fk1rE": {
-      "addedAt": 1773642568651,
-      "lastUsedAt": 1773642568651,
-      "isOwner": false
-    },
-    "8751701371:AAH3sAaObCml6X2cPx-AnQvzdR4SkjBNHS0": {
-      "addedAt": 1773718662810,
-      "lastUsedAt": 1773718662810,
-      "isOwner": false
-    },
-    "salah jir": {
-      "addedAt": 1773726212205,
-      "lastUsedAt": 1773726212205,
-      "isOwner": false
-    },
-    "8691407408:AAE9wbJi8um3ZNXbJCVhOhA1pfoo5Kp4sCg": {
-      "addedAt": 1773742239521,
-      "lastUsedAt": 1773742239521,
-      "isOwner": false
-    },
-    "8572130661:AAFWiJczHrVEBc5C3daGX7xDLE38HNtbeO8": {
-      "addedAt": 1773769796874,
-      "lastUsedAt": 1773769796874,
-      "isOwner": false
-    },
-    "8232438995:AAEuwdqxtQXazrYWnl6DrNcJu7hI1LO5B2U": {
-      "addedAt": 1773778646152,
-      "lastUsedAt": 1773778646152,
-      "isOwner": false
     },
     "8275217125:AAHZfrxNx8mIQuCPaTcHrYyjLv_j1XSjy9E": {
       "addedAt": 1773824150261,
@@ -90,6 +55,11 @@
     "8632495913:AAGQsrIQEDQPJtUcUgB4u9qSgzpVvduVD1Y": {
       "addedAt": 1773949791988,
       "lastUsedAt": 1773949791988,
+      "isOwner": false
+    },
+    "8663322213:AAGBrzLTKW6jRLuveUdk4eDQbJ8bb-2M1Hg": {
+      "addedAt": 1774125213789,
+      "lastUsedAt": 1774125213789,
       "isOwner": false
     }
   }
